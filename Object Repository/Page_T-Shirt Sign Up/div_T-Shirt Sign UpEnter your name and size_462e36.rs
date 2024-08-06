@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_T-Shirt Sign UpEnter your name and size_462e36</name>
+   <tag></tag>
+   <elementGuidId>5d8362a0-255a-4104-a197-c0ccaf5f7d0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='mG61Hd']/div[2]/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.N0gd6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>588dea4a-11f7-4072-a4c6-ae2fa3a97630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>N0gd6</value>
+      <webElementGuid>e34ced25-bc70-4a6e-89bb-e897961b3936</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>T-Shirt Sign UpEnter your name and size to sign up for a T-Shirt.</value>
+      <webElementGuid>a7e4abd5-21bd-421a-8971-e082aa61c785</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mG61Hd&quot;)/div[@class=&quot;RH5hzf RLS9Fe&quot;]/div[@class=&quot;lrKTG&quot;]/div[@class=&quot;Dq4amc&quot;]/div[@class=&quot;m7w29c O8VmIc tIvQIf&quot;]/div[@class=&quot;N0gd6&quot;]</value>
+      <webElementGuid>6e054613-f432-4141-8be9-dbe12912bc93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='mG61Hd']/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>126d6d12-5985-4884-9ba8-1b8a326773b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]</value>
+      <webElementGuid>544a6d7e-cc32-4f76-94ed-eb51702d7aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'T-Shirt Sign UpEnter your name and size to sign up for a T-Shirt.' or . = 'T-Shirt Sign UpEnter your name and size to sign up for a T-Shirt.')]</value>
+      <webElementGuid>ea045260-03cf-4e4a-9354-e242a85966c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

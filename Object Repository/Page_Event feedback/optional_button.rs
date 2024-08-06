@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>optional_button</name>
+   <tag></tag>
+   <elementGuidId>e6cd1da6-6261-49d4-855b-7764a1c3e942</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[1]/div[1]/div[2]/form[1]/div[2]/div[1]/div[2]/div[7]/div[1]/div[1]/div[2]/div[1]/span[1]/div[1]/label[5]/div[2]/div[1]/div[1]/div[3]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//body[1]/div[1]/div[2]/form[1]/div[2]/div[1]/div[2]/div[7]/div[1]/div[1]/div[2]/div[1]/span[1]/div[1]/label[5]/div[2]/div[1]/div[1]/div[3]/div[1]</value>
+      <webElementGuid>a43c0768-3649-4038-ae16-093dd9945e40</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

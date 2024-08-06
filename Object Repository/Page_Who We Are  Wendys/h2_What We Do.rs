@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_What We Do</name>
+   <tag></tag>
+   <elementGuidId>768cbe40-8ea8-483a-bc0b-acd9884430b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.brand-color--text--white.clearfix.text-formatted.field.field--name-field-textmulpar-header.field--type-text.field--label-hidden.field__item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-wendys-main-content']/article/div/div/div/div[2]/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>cbf86388-1ede-4d56-be37-6b9ae32a1bd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>brand-color--text--white clearfix text-formatted field field--name-field-textmulpar-header field--type-text field--label-hidden field__item</value>
+      <webElementGuid>579f2353-ec06-43cf-8c2a-432d6d91756c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-once</name>
+      <type>Main</type>
+      <value>field-names-field-headers-setup</value>
+      <webElementGuid>3deb30b4-781f-49cd-a797-6cca9f599cb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>What We Do</value>
+      <webElementGuid>74e8357a-14f9-4236-867e-a6f76bfcfe94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-wendys-main-content&quot;)/article[@class=&quot;node node--page node--type-page node--view-mode-full&quot;]/div[@class=&quot;node__content&quot;]/div[@class=&quot;field field--name-field-bricks field--type-bricks-revisioned field--label-hidden field__items&quot;]/div[1]/div[@class=&quot;brick brick--type--text-multi-paragraph brick--id--501 brick--text-multi-paragraph en-us brand-color--background--dark-green&quot;]/div[@class=&quot;text-multi-para-container&quot;]/div[@class=&quot;textpara-header-container&quot;]/h2[@class=&quot;brand-color--text--white clearfix text-formatted field field--name-field-textmulpar-header field--type-text field--label-hidden field__item&quot;]</value>
+      <webElementGuid>73ff3df6-5fa4-44cb-9c6e-486b9c498ef9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-wendys-main-content']/article/div/div/div/div[2]/div/div/h2</value>
+      <webElementGuid>38dc6097-a96b-4afb-81aa-8f7caf4836bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our History'])[1]/following::h2[1]</value>
+      <webElementGuid>7c47d59f-9047-4f30-b695-3eacf9a0d186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News Releases'])[1]/preceding::h2[1]</value>
+      <webElementGuid>dab3f2fe-d169-4558-8b2b-e76fada48d91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='What We Do']/parent::*</value>
+      <webElementGuid>ca574790-5f74-44f7-9adb-5cb2121d0015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/h2</value>
+      <webElementGuid>babba7c9-00d4-4147-9e1d-35e258594adf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'What We Do' or . = 'What We Do')]</value>
+      <webElementGuid>e4f7f10b-a84c-4d17-bc47-5cc7e7b014a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

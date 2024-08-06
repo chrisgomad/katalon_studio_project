@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>movies_list</name>
+   <tag></tag>
+   <elementGuidId>0a274360-ad68-4ec6-bfca-c17e8db869d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/main/div/div/div[1]/div[2]/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.heading-style-1.browse-movielist--title.poster-card--title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d3242404-52a5-47e4-bd36-4e8ac01cc2c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>heading-style-1 browse-movielist--title poster-card--title</value>
+      <webElementGuid>04f26ea3-6960-496c-b3df-ee5be3ce9956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8b595b60-a193-4b71-b9db-703a6bf6d6e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Twisters (2024)</value>
+      <webElementGuid>7218909f-d967-4739-8ded-b7c457d73c56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page&quot;)/div[@class=&quot;now-playing&quot;]/div[@class=&quot;row dark__section&quot;]/div[@class=&quot;width-75 tablet-width-100 mobile-width-100&quot;]/div[@class=&quot;now-playing__wrap&quot;]/ul[@class=&quot;browse-movielist&quot;]/li[@class=&quot;poster-card poster-card__fluid browse-movielist--item dark__section&quot;]/a[1]/div[@class=&quot;poster-card--title-block&quot;]/span[@class=&quot;heading-style-1 browse-movielist--title poster-card--title&quot;]</value>
+      <webElementGuid>0e6a314e-bebc-489e-91e8-f0ebff1ac143</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='page']/div/div/div/div[2]/ul/li/a/div/span[2]</value>
+      <webElementGuid>a4278b20-0759-4421-9624-ab9c919ded2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Twisters (2024) Released Fri, July 19th'])[1]/following::span[1]</value>
+      <webElementGuid>49bbe6d0-51eb-476e-a93f-bb06b41b0cc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Movies In Theaters'])[3]/following::span[3]</value>
+      <webElementGuid>58b180e0-02af-44b0-9a9b-cfb22ce1fbdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Despicable Me 4 (2024) Released Wed, July 3rd'])[1]/preceding::span[2]</value>
+      <webElementGuid>6925c19b-61fb-40d1-b47c-32a27eb8558a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inside Out 2 (2024) Released Fri, June 14th'])[1]/preceding::span[5]</value>
+      <webElementGuid>0d54382b-99e9-4241-bfbe-5c471b9a2537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Twisters (2024)']/parent::*</value>
+      <webElementGuid>bc81887d-1563-4b11-9174-3584773080db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+      <webElementGuid>73ee91c8-ec08-4977-9ba8-c1955c6c5d4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Twisters (2024)' or . = 'Twisters (2024)')]</value>
+      <webElementGuid>756b9ff5-355a-4eff-b787-af7fd916f6a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

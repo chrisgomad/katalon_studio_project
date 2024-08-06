@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>//*[@id=&quot;combo_facility&quot;]</description>
+   <name>div_dropdown</name>
+   <tag></tag>
+   <elementGuidId>055cfca6-1e83-4eea-a7a5-a9757c0a0df5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;combo_facility&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>/html/body/section/div/div/form/div[1]/div/select</value>
+      <webElementGuid>7920c27a-e3d7-44f3-8774-0cf88ba1a454</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

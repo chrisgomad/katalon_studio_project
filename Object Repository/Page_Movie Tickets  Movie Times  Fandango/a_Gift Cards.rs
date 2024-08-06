@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Gift Cards</name>
+   <tag></tag>
+   <elementGuidId>0dae2735-fb1a-4177-bce3-899ef66ba8a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.brand-bar__link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brand-bar']/div/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fee8e583-55b6-4c2c-9e98-c47aa4648f91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/fandango-gift-cards</value>
+      <webElementGuid>032f7660-d8eb-4033-afa1-188c57685966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>brand-bar__link</value>
+      <webElementGuid>f919f6e8-5458-4058-b14d-1b8f4ed3cc75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gift Cards</value>
+      <webElementGuid>51f9cd1a-c11e-46bd-a0c2-fe3eed5bda5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brand-bar&quot;)/div[@class=&quot;brand-bar__wrap&quot;]/span[1]/a[@class=&quot;brand-bar__link&quot;]</value>
+      <webElementGuid>3d28000a-948b-4a50-b5ce-791a2fe6965c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brand-bar']/div/span/a</value>
+      <webElementGuid>98355c8d-7147-4654-b9a7-441db877a74f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Gift Cards')]</value>
+      <webElementGuid>38b0a007-b92e-49f8-a081-3aab72ac230f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In/Join'])[1]/following::a[1]</value>
+      <webElementGuid>11ae261b-573d-4e85-8f7c-866a6d3f4fe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Movie News'])[1]/following::a[2]</value>
+      <webElementGuid>ecf26ec6-e740-448e-b583-f06fbba2cfee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offers'])[1]/preceding::a[1]</value>
+      <webElementGuid>4f2499da-7de7-47ef-8439-05a198152347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gift Cards']/parent::*</value>
+      <webElementGuid>f9466b1e-7f4a-4b7e-bd6c-455c081afa9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/fandango-gift-cards')]</value>
+      <webElementGuid>d0aab5ad-aa47-4f24-bee7-e7795649b173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>fcacbdb1-1b6a-4b7d-95ce-7a2bfdcedc11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/fandango-gift-cards' and (text() = 'Gift Cards' or . = 'Gift Cards')]</value>
+      <webElementGuid>f90ae5d9-a769-447e-88d5-15c6005adf20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

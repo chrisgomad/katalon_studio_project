@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_See All Movies (1)</name>
+   <tag></tag>
+   <elementGuidId>1c7b702d-d04c-49fd-a928-78d18667cd35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.movie-tickets-header--see-all.dark__link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='page']/section/div/section/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>455a96ab-7d41-463e-8b14-6be87ce7cd3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>movie-tickets-header--see-all dark__link</value>
+      <webElementGuid>3676699c-a31a-4820-b1fd-56029c082b16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/movies-in-theaters</value>
+      <webElementGuid>334527d7-2801-4fb1-a680-2b4526b9188a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>See All Movies</value>
+      <webElementGuid>abe0ad7b-763b-4f78-8d83-fe8ebf399751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page&quot;)/section[1]/div[@class=&quot;home__movie-content row layout-content-sidebar dark__section&quot;]/section[@class=&quot;movie-tickets-header&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;width-50 columns movie-tickets-header--container&quot;]/a[@class=&quot;movie-tickets-header--see-all dark__link&quot;]</value>
+      <webElementGuid>bbff039f-2c7a-4a6e-be52-f30e5243dc4a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='page']/section/div/section/div/div/a</value>
+      <webElementGuid>46dcf9c7-4c18-4df7-8155-b23422c9c42f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'See All Movies')]</value>
+      <webElementGuid>d2e02369-3e7f-48d1-857a-1efbd05e76e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Movies in Theaters'])[1]/following::a[1]</value>
+      <webElementGuid>41ae5429-223d-43a6-a7e1-fcb9d135aa6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Movie Tickets and Times'])[1]/following::a[1]</value>
+      <webElementGuid>f13b1a37-d6fb-4222-906e-e8fc747d42f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go to previous films'])[1]/preceding::a[1]</value>
+      <webElementGuid>abd37e52-6a54-4e1a-9d71-46491306395b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deadpool &amp; Wolverine (2024) Opens Friday'])[1]/preceding::a[1]</value>
+      <webElementGuid>e174eadb-a069-4b57-9d98-a8e6a66849f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='See All Movies']/parent::*</value>
+      <webElementGuid>a6365d2b-79d1-4721-a1c7-ec7f3cb227b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/movies-in-theaters')])[2]</value>
+      <webElementGuid>1ffe8050-c479-4c26-ad53-c838fd0fb135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a</value>
+      <webElementGuid>6abf89e9-8597-486e-ab59-ba9ff2dd5af0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/movies-in-theaters' and (text() = 'See All Movies' or . = 'See All Movies')]</value>
+      <webElementGuid>adec6284-c57f-4189-b8f4-c7b4e2b2bae5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

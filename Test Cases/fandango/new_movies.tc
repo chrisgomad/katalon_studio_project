@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>new_movies</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f87ec554-d4a0-410b-914d-a79fc5e2e9fe</testCaseGuid>
+</TestCaseEntity>

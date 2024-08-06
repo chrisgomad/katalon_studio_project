@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_This is only available at home</name>
+   <tag></tag>
+   <elementGuidId>a7c568e2-9be7-4924-8d1e-8c5aa38c915e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.viewing-type-toggle__info > span.dark__text--secondary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='viewing-type-toggle-wrapper']/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d58c2fc8-755b-47a7-861b-fbc1f5b48f4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dark__text--secondary</value>
+      <webElementGuid>85d0d9e5-edbe-4c1a-adef-bce09718d809</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This is only available at home.</value>
+      <webElementGuid>d442be69-7263-4409-bad9-b446dfa0fe85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;viewing-type-toggle-wrapper&quot;)/div[@class=&quot;viewing-type-toggle__info&quot;]/span[@class=&quot;dark__text--secondary&quot;]</value>
+      <webElementGuid>8f41f6dc-e364-4a38-8b2d-48f181fa5ddb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='viewing-type-toggle-wrapper']/div/span[2]</value>
+      <webElementGuid>da15dcaa-daf4-4eca-8a29-847a70346df1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Theater/On Demand Toggle'])[1]/following::span[2]</value>
+      <webElementGuid>70905b4b-8e2e-40bd-b605-cbb04f8fdffb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details for In Theaters'])[1]/following::span[2]</value>
+      <webElementGuid>cf98b310-8f76-47df-9edd-73a98d4d2c85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to Movie and Times'])[1]/preceding::span[4]</value>
+      <webElementGuid>39347e0d-18af-4a78-87ad-654e0f22891b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This is only available at home.']/parent::*</value>
+      <webElementGuid>ca921862-213f-4300-beac-a87028887a94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/span[2]</value>
+      <webElementGuid>088fb9f0-9d1c-4f38-9f7f-6ca4452c66d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'This is only available at home.' or . = 'This is only available at home.')]</value>
+      <webElementGuid>2eb9c99f-129f-4783-a43d-fdac642734df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

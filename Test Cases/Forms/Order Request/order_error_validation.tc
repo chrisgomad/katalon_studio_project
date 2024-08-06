@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>order_error_validation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>599658ec-d5c4-4827-8cfb-0bda91550bb5</testCaseGuid>
+</TestCaseEntity>

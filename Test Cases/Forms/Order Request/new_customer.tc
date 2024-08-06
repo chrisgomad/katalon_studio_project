@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>new_customer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2f66621-8f09-44ab-855c-5965d3040450</testCaseGuid>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>66bc485f-1fc2-4daa-9efd-a15b88200f88</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+</TestCaseEntity>

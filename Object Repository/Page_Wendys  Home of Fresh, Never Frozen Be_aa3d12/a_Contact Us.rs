@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Contact Us</name>
+   <tag></tag>
+   <elementGuidId>f3ca0ac4-e0df-4a89-8c4f-8e22645807c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='block-wendys-main-footer']/ul/li[2]/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>588a97a9-b97b-4107-8fea-ba89275e89b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://customer-care.wendys.com/contactus/s/</value>
+      <webElementGuid>525e86f6-0714-4fc2-bc41-15e3a462849a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact Us</value>
+      <webElementGuid>95ce3861-4e51-4d9a-945e-2b8d706678e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-wendys-main-footer&quot;)/ul[@class=&quot;menu&quot;]/li[@class=&quot;menu-item&quot;]/span[@class=&quot;default&quot;]/a[1]</value>
+      <webElementGuid>ed90485b-b1c7-4bc7-b384-f97f91d52e55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='block-wendys-main-footer']/ul/li[2]/span/a</value>
+      <webElementGuid>c304f2fe-7f97-4552-b26b-b5087abec7fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Contact Us')]</value>
+      <webElementGuid>9b50656a-98b2-4bd4-9967-aa4a350b184b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gift Cards'])[2]/following::a[1]</value>
+      <webElementGuid>469ce16f-027c-4ed5-8bf9-28a48da9617d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gift Cards'])[1]/following::a[2]</value>
+      <webElementGuid>0747b1b7-2fdb-43a4-8ed1-204e1a41df91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[2]/preceding::a[1]</value>
+      <webElementGuid>94e5bb4a-9f6f-4685-a13b-298d39233625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Investors'])[1]/preceding::a[2]</value>
+      <webElementGuid>b30f03f1-2457-4cad-998e-5058d86b1e56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Contact Us']/parent::*</value>
+      <webElementGuid>3bf990d6-3b9a-4f2e-8f4c-98834a23e22d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://customer-care.wendys.com/contactus/s/')]</value>
+      <webElementGuid>5acbd6c1-687a-4dea-bd3a-4d0a451bd87d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/nav[2]/ul/li[2]/span/a</value>
+      <webElementGuid>c9af25da-fbfe-4053-a7d0-943410c451d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://customer-care.wendys.com/contactus/s/' and (text() = 'Contact Us' or . = 'Contact Us')]</value>
+      <webElementGuid>358d3bd9-7f43-438e-9017-43905e305c06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

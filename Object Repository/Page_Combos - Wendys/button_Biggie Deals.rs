@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Biggie Deals</name>
+   <tag></tag>
+   <elementGuidId>82f60ad1-be3c-4a9a-b1db-391f38c5017b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[26]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dc71ec9a-aca4-46e0-ba5e-f2540d8b3be4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2d1ac9a4-6fce-4bd9-b383-589ff0c65d06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Biggie Deals</value>
+      <webElementGuid>fecba7e4-6ae7-428a-831b-8c1cffa29867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;common-header&quot;]/div[@class=&quot;main-content-container&quot;]/div[@class=&quot;sc-ftxyOh ipxxlw&quot;]/div[@class=&quot;row category-container&quot;]/div[@class=&quot;col-lg-4 col-md-4 col-sm-4 col-xs-12 category-list-container&quot;]/div[@class=&quot;container-fluid background-overlay&quot;]/div[@class=&quot;categories-item-container&quot;]/div[@class=&quot;categories-list&quot;]/button[1]</value>
+      <webElementGuid>3bb6c957-f398-46fd-99b8-84be3645c7f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[26]</value>
+      <webElementGuid>b8d8ff57-bd85-4f02-9b8f-cd03add8653a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/div/div/div[3]/div[21]/button</value>
+      <webElementGuid>00c9bb62-b5b7-42ba-8dc3-337c53569bfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bakery'])[1]/following::button[2]</value>
+      <webElementGuid>01e92cc1-f589-4162-8180-7ad247b9c3f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meal Deals'])[1]/preceding::button[1]</value>
+      <webElementGuid>5297259c-65c9-49e0-9027-c6e71b9a0daf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[21]/button</value>
+      <webElementGuid>5c094620-9416-4f22-80f9-b0642fd0a291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Biggie Deals' or . = 'Biggie Deals')]</value>
+      <webElementGuid>e48f3635-983a-4581-88e1-0f0d00b01ba1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

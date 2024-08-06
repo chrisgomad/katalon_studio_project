@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Jr. Bacon Cheeseburger370 Cal</name>
+   <tag></tag>
+   <elementGuidId>f0714a6e-64af-423e-91d1-91b0a17f5ab3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-list']/div[3]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0c5fb286-e5c0-4f40-9153-9901471b0ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fav-item-block</value>
+      <webElementGuid>fa71c124-3469-4121-b1df-ef80a8ee85de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jr. Bacon Cheeseburger370 Cal</value>
+      <webElementGuid>56e77a05-929f-44e0-978c-bb9323c5273b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-list&quot;)/div[@class=&quot;product-item-container&quot;]/div[@class=&quot;product-item&quot;]/button[@class=&quot;fav-item-block&quot;]</value>
+      <webElementGuid>c203f596-a76c-428d-ae0c-e4c75f23f0cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-list']/div[3]/div/button</value>
+      <webElementGuid>afccd381-4d91-4173-82a1-a6df6f490222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jr. Cheeseburger Deluxe'])[1]/following::button[1]</value>
+      <webElementGuid>a4a26506-546e-47e8-a160-3233aeeab72b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jr. Cheeseburger'])[1]/following::button[2]</value>
+      <webElementGuid>5f009d3d-b346-479b-ad4e-a77b22378cd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Double Stack™'])[1]/preceding::button[1]</value>
+      <webElementGuid>5475141e-be10-47ca-a341-fd3852141060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[3]/div/button</value>
+      <webElementGuid>ef5bd22a-897c-4bda-98b3-20212bf6240e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Jr. Bacon Cheeseburger370 Cal' or . = 'Jr. Bacon Cheeseburger370 Cal')]</value>
+      <webElementGuid>2b9bd462-c072-494b-b92e-312282fff243</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

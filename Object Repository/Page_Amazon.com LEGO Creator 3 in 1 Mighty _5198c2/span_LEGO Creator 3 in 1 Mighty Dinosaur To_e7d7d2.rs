@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_LEGO Creator 3 in 1 Mighty Dinosaur To_e7d7d2</name>
+   <tag></tag>
+   <elementGuidId>5b5acb2a-2c0c-49c2-9a72-839e1f888af9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'productTitle' and (text() = '        LEGO Creator 3 in 1 Mighty Dinosaur Toy, Transforms from T. rex to Triceratops to Pterodactyl Dinosaur Figures, Great Gift for 7-12 Year Old Boys &amp; Girls, 31058       ' or . = '        LEGO Creator 3 in 1 Mighty Dinosaur Toy, Transforms from T. rex to Triceratops to Pterodactyl Dinosaur Figures, Great Gift for 7-12 Year Old Boys &amp; Girls, 31058       ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#productTitle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'productTitle' and (text() = '        LEGO Creator 3 in 1 Mighty Dinosaur Toy, Transforms from T. rex to Triceratops to Pterodactyl Dinosaur Figures, Great Gift for 7-12 Year Old Boys &amp; Girls, 31058       ' or . = '        LEGO Creator 3 in 1 Mighty Dinosaur Toy, Transforms from T. rex to Triceratops to Pterodactyl Dinosaur Figures, Great Gift for 7-12 Year Old Boys &amp; Girls, 31058       ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>aea26b54-7ce7-4934-ab65-c934d04026a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>productTitle</value>
+      <webElementGuid>c1cd15ee-1354-4d3a-8f55-3dd106dcb044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-size-large product-title-word-break</value>
+      <webElementGuid>40a30c7b-88a7-4afd-affb-7ac88f6bb656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>        LEGO Creator 3 in 1 Mighty Dinosaur Toy, Transforms from T. rex to Triceratops to Pterodactyl Dinosaur Figures, Great Gift for 7-12 Year Old Boys &amp; Girls, 31058       </value>
+      <webElementGuid>4fd8a0f3-770e-40e4-9da6-d34989c8d646</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;title&quot;)/span[@id=&quot;productTitle&quot;]</value>
+      <webElementGuid>74784ecc-26cf-4dd8-89c4-de19e45cf936</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='productTitle']</value>
+      <webElementGuid>b46ce5c1-a9ac-47f5-8f49-3d648bdd751f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//h1[@id='title']/span</value>
+      <webElementGuid>bf5d40df-3dd2-49df-8d92-ba4571803f95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop in Virtual Store'])[1]/following::span[1]</value>
+      <webElementGuid>1e8ddd66-692a-4d62-9ad4-e54f60eb4e26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roll over image to zoom in'])[1]/following::span[5]</value>
+      <webElementGuid>9b6d4791-a929-48b4-933f-c108e15fa7be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit the LEGO Store'])[1]/preceding::span[1]</value>
+      <webElementGuid>fb21f460-88d6-43a6-ba99-97bfc64ec74b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[2]/preceding::span[10]</value>
+      <webElementGuid>8141a3ba-73c3-4fed-81fc-fbe2ce838605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LEGO Creator 3 in 1 Mighty Dinosaur Toy, Transforms from T. rex to Triceratops to Pterodactyl Dinosaur Figures, Great Gift for 7-12 Year Old Boys &amp; Girls, 31058']/parent::*</value>
+      <webElementGuid>be18082a-ed97-4a97-9c60-0aa5ee0ef898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span</value>
+      <webElementGuid>22fc805a-3da6-4344-b407-f009ebe17941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'productTitle' and (text() = '        LEGO Creator 3 in 1 Mighty Dinosaur Toy, Transforms from T. rex to Triceratops to Pterodactyl Dinosaur Figures, Great Gift for 7-12 Year Old Boys &amp; Girls, 31058       ' or . = '        LEGO Creator 3 in 1 Mighty Dinosaur Toy, Transforms from T. rex to Triceratops to Pterodactyl Dinosaur Figures, Great Gift for 7-12 Year Old Boys &amp; Girls, 31058       ')]</value>
+      <webElementGuid>cb76c1c0-8a49-4351-8d0c-8494013f74fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

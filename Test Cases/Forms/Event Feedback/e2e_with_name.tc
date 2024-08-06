@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>e2e_with_name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>36573907-defe-45d8-b8bd-fa7c713c41a2</testCaseGuid>
+</TestCaseEntity>

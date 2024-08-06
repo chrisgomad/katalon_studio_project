@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_size</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c5ec0be1-e1b4-43b1-b0b0-ec22eb1a2770</testCaseGuid>
+</TestCaseEntity>

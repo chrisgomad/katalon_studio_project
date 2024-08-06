@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_deal_2</name>
+   <tag></tag>
+   <elementGuidId>1e6348de-dfb0-482a-baee-45595461df40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pageBodyContainer&quot;]/div/div[1]/div/div[3]/div/div/ul/li[1]/a/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b48e5e4-8b81-45e1-b9ed-bf8d3f94deba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_truncate__Eorq7 sc-4d32bc34-0 lbqtUS h-text-md h-hidden-sm-down h-margin-t-tiny</value>
+      <webElementGuid>27d9edf0-3181-4766-b848-fd92eea02ad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>product-title-md-lg</value>
+      <webElementGuid>645a6587-78d8-42a1-b1ea-af3c9505781f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Peakform Folding C Table Black</value>
+      <webElementGuid>ff4a4204-db85-4daf-90cf-f760580ebd13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pageBodyContainer&quot;)/div[1]/div[1]/div[@class=&quot;sc-f04cc478-0 sc-76172a97-0 iYQOwo eZftkH&quot;]/div[4]/div[@class=&quot;sc-2b0a6458-1 gDwlfy&quot;]/div[1]/div[@class=&quot;styles_contentDiv__hZAU_ styles_displayBlock__1yf6p&quot;]/div[@class=&quot;l-container l-container-standard&quot;]/div[@class=&quot;sc-3488acd4-0 iwLNFx h-margin-b-jumbo&quot;]/div[@class=&quot;sc-a26a6bf9-0 koeyvB h-padding-t-tight&quot;]/ul[@class=&quot;sc-a26a6bf9-2 jqhoxO&quot;]/li[@class=&quot;sc-a26a6bf9-3 kobkMm   h-margin-b-tight&quot;]/div[@class=&quot;sc-e72ec7b-6 Bjcbq&quot;]/div[@class=&quot;sc-e72ec7b-0 euIyUx&quot;]/a[@class=&quot;sc-676073c3-0 sc-3488acd4-2 iJrLGj hUhISK&quot;]/div[@class=&quot;sc-e72ec7b-1 gZSMAn&quot;]/div[@class=&quot;styles_truncate__Eorq7 sc-4d32bc34-0 lbqtUS h-text-md h-hidden-sm-down h-margin-t-tiny&quot;]</value>
+      <webElementGuid>4dcb4ee8-24eb-4fd7-88f1-a920411cca61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='pageBodyContainer']/div/div/div/div[4]/div/div/div/div/div[2]/div/ul/li[4]/div/div/a/div/div[3]</value>
+      <webElementGuid>504d3a66-9572-4a1a-837e-8faa5ee119be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peakform Folding C Table Black'])[1]/following::div[1]</value>
+      <webElementGuid>3da2edb5-0be4-4feb-b2a5-a8d4171940fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sale'])[2]/following::div[2]</value>
+      <webElementGuid>cb13b8fd-ff24-464d-87c5-e2e8d75a6e24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[3]/preceding::div[1]</value>
+      <webElementGuid>c496cda0-335d-4d0e-8ac7-f3b7cbcdd04a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$67.99'])[1]/preceding::div[3]</value>
+      <webElementGuid>3e345077-0a16-4aa7-8628-9d59a1df8d9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/div/a/div/div[3]</value>
+      <webElementGuid>5d67ff85-4939-4bac-a662-45c7aa118b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Peakform Folding C Table Black' or . = 'Peakform Folding C Table Black')]</value>
+      <webElementGuid>2cbf193b-3963-46e4-aa3f-baf1c657f1bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;pageBodyContainer&quot;]/div/div[1]/div/div[3]/div/div/ul/li[1]/a/div/div[2]/span</value>
+      <webElementGuid>12a8850a-cf55-4a66-9d98-ab7197dea01d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

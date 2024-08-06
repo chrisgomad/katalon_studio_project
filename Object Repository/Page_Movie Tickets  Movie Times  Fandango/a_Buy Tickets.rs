@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Buy Tickets</name>
+   <tag></tag>
+   <elementGuidId>699797cf-8bfc-40d4-bfa8-2a74a5c14b01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.search__movie-buy-tickets-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='search-results-movies']/ul/li/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9001531c-7532-449e-ad3b-d94d536eb8f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn search__movie-buy-tickets-btn</value>
+      <webElementGuid>6b98ad73-c79f-46f0-aa98-e4799eea5eb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/interstellar-163452/movie-overview</value>
+      <webElementGuid>4041ee4a-3e9d-44a6-9f21-8ab76fa0c535</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buy Tickets</value>
+      <webElementGuid>994e7837-01e9-4a71-826d-9f40ad2ce699</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-results-movies&quot;)/ul[@class=&quot;search__section-content&quot;]/li[@class=&quot;search__panel&quot;]/div[@class=&quot;search__movie-section--third&quot;]/a[@class=&quot;btn search__movie-buy-tickets-btn&quot;]</value>
+      <webElementGuid>9575b519-c625-4151-9b8e-91e37c5e38d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='search-results-movies']/ul/li/div[3]/a</value>
+      <webElementGuid>486ee0c1-2417-40dc-9c8e-3918a0364178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Buy Tickets')]</value>
+      <webElementGuid>86217415-935f-497c-9efe-6859ec95b1ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IMAX'])[1]/following::a[1]</value>
+      <webElementGuid>72987e83-43f9-49d3-ab69-fdeefe687bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See it in:'])[1]/following::a[1]</value>
+      <webElementGuid>ee67d4af-4bbb-4d4a-8c77-d395beab0854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INTERSTELLAR: PRESENTED IN FILM'])[1]/preceding::a[2]</value>
+      <webElementGuid>359b24c8-416b-46bd-adc3-89d7ea627138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See it in:'])[2]/preceding::a[3]</value>
+      <webElementGuid>bf799a4b-3b80-4f9e-b37d-4a8fd220ba13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buy Tickets']/parent::*</value>
+      <webElementGuid>075fe0f4-0457-49eb-bca9-f754e2863c4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/interstellar-163452/movie-overview')])[3]</value>
+      <webElementGuid>4efff2bb-9575-45a9-bf45-e1e78932b450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>0330b98e-54d9-4caa-9848-a0c391ab608c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/interstellar-163452/movie-overview' and (text() = 'Buy Tickets' or . = 'Buy Tickets')]</value>
+      <webElementGuid>e6354326-710d-46e9-8ea9-a292f05f55a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
